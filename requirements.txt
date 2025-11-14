@@ -1,6 +1,6 @@
 pandas==2.2.3
 setuptools==75.8.0
-numpy==1.26
+numpy>=2.1.0
 tqdm==4.64.1
 biopython==1.83
 lxml==5.2.0
